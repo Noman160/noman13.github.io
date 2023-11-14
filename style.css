@@ -119,7 +119,7 @@ header .user .post {
 }
 
 header .navbar {
-    width: 93%;
+    width: 96%;
 }
 
 header .navbar ul {
@@ -132,7 +132,7 @@ header .navbar ul {
 header .navbar ul li a {
     display: block;
     padding: 1rem;
-    margin: 0.8rem 0;
+    margin: 1rem 0;
     background: #333;
     color: #fff;
     font-size: 1.475rem;
